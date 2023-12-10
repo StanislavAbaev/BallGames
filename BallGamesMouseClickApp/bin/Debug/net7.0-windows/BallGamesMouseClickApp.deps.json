@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "BallGamesMouseClickApp/1.0.0": {
+        "dependencies": {
+          "BallGames.Common": "1.0.0"
+        },
+        "runtime": {
+          "BallGamesMouseClickApp.dll": {}
+        }
+      },
+      "BallGames.Common/1.0.0": {
+        "runtime": {
+          "BallGames.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BallGamesMouseClickApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BallGames.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
