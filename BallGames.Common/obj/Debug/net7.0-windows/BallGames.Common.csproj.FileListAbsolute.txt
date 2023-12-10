@@ -1,0 +1,12 @@
+D:\Project\OnlineCourse12Stream_Kurators\BallGamesWinFormsApp\BallGames.Common\bin\Debug\net7.0-windows\BallGames.Common.deps.json
+D:\Project\OnlineCourse12Stream_Kurators\BallGamesWinFormsApp\BallGames.Common\bin\Debug\net7.0-windows\BallGames.Common.dll
+D:\Project\OnlineCourse12Stream_Kurators\BallGamesWinFormsApp\BallGames.Common\bin\Debug\net7.0-windows\BallGames.Common.pdb
+D:\Project\OnlineCourse12Stream_Kurators\BallGamesWinFormsApp\BallGames.Common\obj\Debug\net7.0-windows\BallGames.Common.csproj.ResolveComReference.cache
+D:\Project\OnlineCourse12Stream_Kurators\BallGamesWinFormsApp\BallGames.Common\obj\Debug\net7.0-windows\BallGames.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\OnlineCourse12Stream_Kurators\BallGamesWinFormsApp\BallGames.Common\obj\Debug\net7.0-windows\BallGames.Common.AssemblyInfoInputs.cache
+D:\Project\OnlineCourse12Stream_Kurators\BallGamesWinFormsApp\BallGames.Common\obj\Debug\net7.0-windows\BallGames.Common.AssemblyInfo.cs
+D:\Project\OnlineCourse12Stream_Kurators\BallGamesWinFormsApp\BallGames.Common\obj\Debug\net7.0-windows\BallGames.Common.csproj.CoreCompileInputs.cache
+D:\Project\OnlineCourse12Stream_Kurators\BallGamesWinFormsApp\BallGames.Common\obj\Debug\net7.0-windows\BallGames.Common.dll
+D:\Project\OnlineCourse12Stream_Kurators\BallGamesWinFormsApp\BallGames.Common\obj\Debug\net7.0-windows\refint\BallGames.Common.dll
+D:\Project\OnlineCourse12Stream_Kurators\BallGamesWinFormsApp\BallGames.Common\obj\Debug\net7.0-windows\BallGames.Common.pdb
+D:\Project\OnlineCourse12Stream_Kurators\BallGamesWinFormsApp\BallGames.Common\obj\Debug\net7.0-windows\ref\BallGames.Common.dll
